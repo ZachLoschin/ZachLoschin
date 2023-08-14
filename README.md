@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Zachary Loschinskey
-- 👀 I’m interested in Computational Biology and Bioinformatics
-- 🌱 I’m currently an undergraduate student at the University of Missouri, Columbia studying BME, Bioinformatics
-- 📫 How to reach me -- zfl9d4@umsystem.edu
-- ✨ I will be applying to Computational Biology / Bioinformatics PhD programs for starting in the fall of 2023
+- 👀 I’m interested in Neural Engineering and Bioinformatics
+- 🌱 I am a PhD student in Biomedical Engineering at Boston University, and I previously complted my BS in Biomedical Engineering, Bioinformatics at the University of Missouri-Columbia
+- 📫 How to reach me -- zfl@bu.edu
 
 <!---
 ZachLoschin/ZachLoschin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
